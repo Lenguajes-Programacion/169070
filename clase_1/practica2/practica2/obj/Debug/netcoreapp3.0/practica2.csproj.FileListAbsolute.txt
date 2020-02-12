@@ -9,3 +9,14 @@ C:\Users\alumno\Desktop\169070\clase_1\practica2\practica2\bin\Debug\netcoreapp3
 C:\Users\alumno\Desktop\169070\clase_1\practica2\practica2\bin\Debug\netcoreapp3.0\practica2.pdb
 C:\Users\alumno\Desktop\169070\clase_1\practica2\practica2\obj\Debug\netcoreapp3.0\practica2.dll
 C:\Users\alumno\Desktop\169070\clase_1\practica2\practica2\obj\Debug\netcoreapp3.0\practica2.pdb
+C:\Users\tobi_\Desktop\169070\clase_1\practica2\practica2\bin\Debug\netcoreapp3.0\practica2.exe
+C:\Users\tobi_\Desktop\169070\clase_1\practica2\practica2\bin\Debug\netcoreapp3.0\practica2.deps.json
+C:\Users\tobi_\Desktop\169070\clase_1\practica2\practica2\bin\Debug\netcoreapp3.0\practica2.runtimeconfig.json
+C:\Users\tobi_\Desktop\169070\clase_1\practica2\practica2\bin\Debug\netcoreapp3.0\practica2.runtimeconfig.dev.json
+C:\Users\tobi_\Desktop\169070\clase_1\practica2\practica2\bin\Debug\netcoreapp3.0\practica2.dll
+C:\Users\tobi_\Desktop\169070\clase_1\practica2\practica2\bin\Debug\netcoreapp3.0\practica2.pdb
+C:\Users\tobi_\Desktop\169070\clase_1\practica2\practica2\obj\Debug\netcoreapp3.0\practica2.csprojAssemblyReference.cache
+C:\Users\tobi_\Desktop\169070\clase_1\practica2\practica2\obj\Debug\netcoreapp3.0\practica2.AssemblyInfoInputs.cache
+C:\Users\tobi_\Desktop\169070\clase_1\practica2\practica2\obj\Debug\netcoreapp3.0\practica2.AssemblyInfo.cs
+C:\Users\tobi_\Desktop\169070\clase_1\practica2\practica2\obj\Debug\netcoreapp3.0\practica2.dll
+C:\Users\tobi_\Desktop\169070\clase_1\practica2\practica2\obj\Debug\netcoreapp3.0\practica2.pdb
