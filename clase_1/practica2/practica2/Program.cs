@@ -103,7 +103,7 @@ namespace calculadora1
                     break;
 
                 default:
-                    Console.WriteLine("los argumentos no cuentan con un operador valido:" + operador);
+                    Console.WriteLine("escribe bien plis" + operador);
                     break;
             }
             Console.ReadLine();
