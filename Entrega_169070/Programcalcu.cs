@@ -1,15 +1,17 @@
 ﻿using System;
 namespace calculadora1
 {
-    class Program
+    class Programcalcu
     {
         static void Main(string[] args)
         {
             string operador, operador2;
             string respuesta;
             int suma, resta, multi, digito1, digito2, digito3, suma2, resta2, multi2;
-            int res=0;
+            int res = 0;
             double res2 = 0;
+
+            do { 
             Console.WriteLine("Realiza una operacion", System.Environment.NewLine, "ingresa el primer digito");
             Console.WriteLine("escribe el primer digito");
             digito1 = Int32.Parse(Console.ReadLine());
@@ -22,7 +24,7 @@ namespace calculadora1
             resta = digito1 - digito2;
             multi = digito1 * digito2;
             double divi = ((double)digito1 / (double)digito2);
-            
+
 
             switch (operador)
             {
@@ -33,7 +35,7 @@ namespace calculadora1
 
                 case "-":
                     Console.WriteLine("tu operacion es una restay el resultado es: " + resta);
-                    res = resta; 
+                    res = resta;
                     break;
 
                 case "*":
@@ -44,7 +46,7 @@ namespace calculadora1
                 case "/":
                     Console.WriteLine("tu operacion es una divison y el resultado es: " + divi);
                     res2 = divi;
-                    
+
                     break;
 
                 default:
@@ -106,6 +108,7 @@ namespace calculadora1
                     Console.WriteLine("escribe bien plis" + operador);
                     break;
             }
+            } while (respuesta != "no");
             Console.ReadLine();
         }
     }
