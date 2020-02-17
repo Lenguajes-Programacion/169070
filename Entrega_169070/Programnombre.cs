@@ -1,4 +1,6 @@
-﻿using System;
+﻿//169070 Bryan Yafar Galvan Bueno
+
+using System;
 
 namespace Practica1
 {
