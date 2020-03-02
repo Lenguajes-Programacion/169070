@@ -1,0 +1,13 @@
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\bin\Debug\netcoreapp3.0\memoria2.exe
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\obj\Debug\netcoreapp3.0\memoria2.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\obj\Debug\netcoreapp3.0\memoria2.AssemblyInfo.cs
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\bin\Debug\netcoreapp3.0\memoria2.deps.json
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\bin\Debug\netcoreapp3.0\memoria2.runtimeconfig.json
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\bin\Debug\netcoreapp3.0\memoria2.runtimeconfig.dev.json
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\bin\Debug\netcoreapp3.0\memoria2.dll
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\bin\Debug\netcoreapp3.0\memoria2.pdb
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\obj\Debug\netcoreapp3.0\memoria2.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\obj\Debug\netcoreapp3.0\memoria2.csproj.CopyComplete
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\obj\Debug\netcoreapp3.0\memoria2.dll
+C:\Users\alumno\Desktop\169070\memoria2\memoria2\obj\Debug\netcoreapp3.0\memoria2.pdb
