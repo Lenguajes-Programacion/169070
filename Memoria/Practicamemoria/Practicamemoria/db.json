@@ -1,23 +1,19 @@
-// db["arreglo"][0]
-{
-  /*  "key": "value",
-  "arreglo": [
+[
+  {
     {
+      "fecha": "2020-02-21T17:59",
       "operacion": "5+5",
       "resultado": 10
     },
-    "value"
-  ],*/
-  "2020-02-21T17:59": {
-    "operacion": "5+5",
-    "resultado": 10
-  },
-  "2020-02-21T18:00": {
-    "operacion": "5+5",
-    "resultado": 10
-  },
-  "2020-02-19T15:00": {
-    "operacion": "5+5",
-    "resultado": 10
+    {
+      "fecha": "2020-02-21T18:00",
+      "operacion": "5+5",
+      "resultado": 10
+    },
+    {
+      "fecha": "2020-02-19T15:00",
+      "operacion": "5+5",
+      "resultado": 10
+    }
   }
-}
+]

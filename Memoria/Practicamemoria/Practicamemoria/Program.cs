@@ -12,6 +12,7 @@ namespace calculadora1
         static void Main()
         {
             calculadora opera = new calculadora();
+
             string operador;
             do
             {

@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Memoria",
     "\\Memoria\\Practicamemoria",
     "\\Memoria\\Practicamemoria\\Practicamemoria"
   ],
-  "SelectedNode": "\\Memoria",
+  "SelectedNode": "\\Memoria\\Practicamemoria\\Practicamemoria\\pmemo.cs",
   "PreviewInSolutionExplorer": false
 }
