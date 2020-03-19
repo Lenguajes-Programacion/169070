@@ -7,7 +7,7 @@ using Newtonsoft.Json.Linq;
 
 namespace memoria3
 {
-
+    //
     class calculadora
     {
         public float digito1, digito2, resultado, resultado2 = 0;  //declaracion de variables
