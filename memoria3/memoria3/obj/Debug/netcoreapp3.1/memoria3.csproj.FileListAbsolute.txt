@@ -1,0 +1,11 @@
+C:\Users\tobi_\Desktop\169070\memoria3\memoria3\bin\Debug\netcoreapp3.1\memoria3.exe
+C:\Users\tobi_\Desktop\169070\memoria3\memoria3\bin\Debug\netcoreapp3.1\memoria3.deps.json
+C:\Users\tobi_\Desktop\169070\memoria3\memoria3\bin\Debug\netcoreapp3.1\memoria3.runtimeconfig.json
+C:\Users\tobi_\Desktop\169070\memoria3\memoria3\bin\Debug\netcoreapp3.1\memoria3.runtimeconfig.dev.json
+C:\Users\tobi_\Desktop\169070\memoria3\memoria3\bin\Debug\netcoreapp3.1\memoria3.dll
+C:\Users\tobi_\Desktop\169070\memoria3\memoria3\bin\Debug\netcoreapp3.1\memoria3.pdb
+C:\Users\tobi_\Desktop\169070\memoria3\memoria3\obj\Debug\netcoreapp3.1\memoria3.csprojAssemblyReference.cache
+C:\Users\tobi_\Desktop\169070\memoria3\memoria3\obj\Debug\netcoreapp3.1\memoria3.AssemblyInfoInputs.cache
+C:\Users\tobi_\Desktop\169070\memoria3\memoria3\obj\Debug\netcoreapp3.1\memoria3.AssemblyInfo.cs
+C:\Users\tobi_\Desktop\169070\memoria3\memoria3\obj\Debug\netcoreapp3.1\memoria3.dll
+C:\Users\tobi_\Desktop\169070\memoria3\memoria3\obj\Debug\netcoreapp3.1\memoria3.pdb

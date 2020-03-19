@@ -1,5 +1,11 @@
 ﻿using System;
-namespace calculadora1
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.IO;
+using Newtonsoft.Json.Linq;
+
+namespace memoria3
 {
 
     class calculadora
@@ -12,7 +18,6 @@ namespace calculadora1
         static void Main()
         {
             calculadora opera = new calculadora();
-
             string operador;
             do
             {
@@ -23,7 +28,10 @@ namespace calculadora1
                 Console.WriteLine("division---------- /");
                 Console.WriteLine("salir------------- e");
                 Console.WriteLine("memoria ----------- m");
+
+
                 operador = (Console.ReadLine());
+
                 switch (operador)
                 {
                     case "+":
@@ -42,9 +50,6 @@ namespace calculadora1
                         Console.Clear();
                         Console.WriteLine("adios:)", System.Environment.NewLine);
                         break;
-                    case "m":
-     
-                        break;
                     default:
                         Console.Clear();
                         Console.WriteLine("Ingresa un operador valido", System.Environment.NewLine);
@@ -52,6 +57,7 @@ namespace calculadora1
                 }
             } while (operador != "e");
 
+           
 
         }
         //Funcion para sumar----------------------------------------------------------------------------
@@ -76,8 +82,15 @@ namespace calculadora1
 
             }
             Console.WriteLine("Resultado = : " + resultado);
-
             return resultado;
+
+            Movie operacion = new Movie
+            {
+                Operacion = digito1, "+", digito2,
+                resultado = resultado,
+            };
+
+            File.WriteAllText(@"c:\db.json", JsonConvert.SerializeObject(operacion));
         }
 
         //Funcion para restar--------------------------------------------------------------------------
@@ -157,5 +170,12 @@ namespace calculadora1
 
             return resultado;
         }
+        //
+        public class Operacion
+        {
+            public string Operacion { get; set; }
+            public float resultado { get; set; }
+        }
+
     }
 }
